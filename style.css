@@ -1,0 +1,70 @@
+
+body{
+    background-color: #FFD6E0;
+}
+
+#forms{
+
+    border-style: dotted;
+    margin-top:10px;
+     margin-left:10px;
+      margin-right:10px;
+       margin-bottom:10px;
+       padding-bottom: 10px;
+        padding-right: 10px;
+         padding-left: 10px;
+          padding-top: 10px;
+}
+
+
+#meeting {
+
+ border-style: double;
+    margin-top:10px;
+     margin-left:10px;
+      margin-right:10px;
+       margin-bottom:10px;
+       padding-bottom: 10px;
+        padding-right: 10px;
+         padding-left: 10px;
+          padding-top: 10px;
+
+}
+
+
+
+#starter{
+
+    color: black;
+
+
+}
+
+
+ 
+
+    h1 {
+      color: #7BF1A8;
+
+
+    }
+
+
+
+   
+#submitButton{
+
+    background-color: #90F1EF;
+
+
+}
+
+
+.card{
+
+    background-color: #7BF1A8;
+     
+
+
+
+}
