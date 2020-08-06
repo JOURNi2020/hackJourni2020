@@ -1,0 +1,19 @@
+body{
+    background-color: #FFD6E0;
+}
+#top{
+border-style: double;
+    margin-top:10px;
+     margin-left:20px;
+      margin-right:20px;
+       margin-bottom:20px;
+       padding-bottom:20px;
+        padding-right:20px;
+         padding-left:20px;
+          padding-top:20px;
+          background-image: url(https://www.tallahasseekungfu.com/wp-content/uploads/2018/08/karate-2578819_1920-300x202.jpg);
+}
+
+#top{
+    color:white
+}
