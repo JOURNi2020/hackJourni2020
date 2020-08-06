@@ -2,6 +2,7 @@ body{
     text-align: center;
    background-color: #FFD6E0;
    font-family: 'Stylish', sans-serif;
+   font-size: 18px
 }
 
 .button .btn {
@@ -25,16 +26,23 @@ body{
 
 
 #paragraphs {
-    background: rgb(230, 153, 167);
+    background-color: rgb(230, 153, 167);
   padding: 10px;
   margin: 20px;
   border: solid rgba(156, 149, 149, 0.746);
+   font-family: 'Stylish', sans-serif;
+
 }
 
-.carousel-indicators {
-    color: white;
-}
 
 .nav {
-    background-color: #90F1EF;
+    background-color:#FFD6E0;
+}
+
+.list {
+  
+  padding: 10px;
+  margin: 10px;
+  border: solid black;
+    list-style-position:inside;
 }
