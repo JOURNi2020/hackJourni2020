@@ -1,6 +1,7 @@
 
 body{
     background-color: #FFD6E0;
+    font-family: 'Stylish', sans-serif;
 }
 
 #forms{
@@ -98,3 +99,6 @@ border-style: solid;
 h1{
     text-align: center;
 }
+
+.nav {
+    background-color:#90F1EF;
